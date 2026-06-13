@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+faiss-cpu
+sentence-transformers
+gradio
+datasets
+rouge-score
+pandas
+numpy

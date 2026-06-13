@@ -1,0 +1,18 @@
+# API Keys — NEVER commit these
+config.py
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Data files — too large for GitHub
+data/pubmedqa.index
+data/documents.pkl
+data/metadata.pkl
+
+# Evaluation outputs
+evaluation/results.csv
+evaluation/summary.json

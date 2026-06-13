@@ -112,7 +112,7 @@ AgentRAG/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AgentRAG.git
+git clone https://github.com/KomaliG7/AgentRAG.git
 cd AgentRAG
 ```
 

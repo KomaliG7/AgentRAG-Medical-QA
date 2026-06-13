@@ -1,0 +1,16 @@
+{
+  "total_questions": 20,
+  "baseline_accuracy_pct": 75.0,
+  "agentrag_accuracy_pct": 30.0,
+  "accuracy_improvement_pct": -45.0,
+  "baseline_avg_confidence": 0.5883,
+  "agentrag_avg_confidence": 0.5475,
+  "confidence_improvement": -0.0408,
+  "avg_sub_queries": 2.25,
+  "reformulation_rate_pct": 10.0,
+  "avg_unique_docs_retrieved": 3.05,
+  "agentrag_fixed_baseline": 0,
+  "baseline_beat_agentrag": 9,
+  "both_correct": 6,
+  "both_wrong": 5
+}

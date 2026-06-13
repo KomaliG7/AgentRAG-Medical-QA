@@ -1,0 +1,21 @@
+question,ground_truth,baseline_correct,baseline_confidence,agentrag_correct,agentrag_confidence,sub_queries_count,reformulations,conf_delta,unique_docs_retrieved
+Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?,yes,True,0.4776,True,0.4111,3,1,-0.0665,2
+Landolt C and snellen e acuity: differences in strabismus amblyopia?,no,True,0.6811,False,0.5642,3,0,-0.1169,2
+"Syncope during bathing in infants, a pediatric form of water-induced urticaria?",yes,True,0.4834,True,0.4484,3,0,-0.035,4
+Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?,no,True,0.4482,False,0.4951,3,1,0.0469,4
+Can tailored interventions increase mammography use among HMO women?,yes,True,0.5889,True,0.6001,3,0,0.0112,3
+Double balloon enteroscopy: is it efficacious and safe in a community setting?,yes,True,0.5298,False,0.5482,2,0,0.0184,2
+30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?,maybe,True,0.7263,True,0.693,2,0,-0.0333,2
+Is adjustment for reporting heterogeneity necessary in sleep disorders?,no,True,0.5787,False,0.4728,2,0,-0.1059,4
+Do mutations causing low HDL-C promote increased carotid intima-media thickness?,no,True,0.5851,False,0.5874,2,0,0.0023,4
+A short stay or 23-hour ward in a general and academic children's hospital: are they effective?,yes,False,0.667,False,0.5765,2,0,-0.0905,3
+Did Chile's traffic law reform push police enforcement?,yes,True,0.4604,True,0.4643,2,0,0.0039,3
+Therapeutic anticoagulation in the trauma patient: is it safe?,no,False,0.6699,False,0.6103,2,0,-0.0596,3
+Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?,yes,True,0.5662,False,0.518,2,0,-0.0482,3
+Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?,no,True,0.6094,False,0.4894,2,0,-0.12,4
+Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?,yes,False,0.6022,False,0.5328,2,0,-0.0694,3
+Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?,yes,True,0.6513,True,0.6032,2,0,-0.0481,3
+Is there still a need for living-related liver transplantation in children?,yes,True,0.5445,False,0.5761,2,0,0.0316,3
+Do patterns of knowledge and attitudes exist among unvaccinated seniors?,yes,False,0.6657,False,0.5906,2,0,-0.0751,3
+Is there a model to teach and practice retroperitoneoscopic nephrectomy?,yes,False,0.6081,False,0.5475,2,0,-0.0606,4
+Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?,yes,True,0.6227,False,0.6208,2,0,-0.0019,2
